@@ -1,0 +1,7 @@
+# Ignore les fichiers temporaires et caches
+__pycache__/
+*.pyc
+*.log
+
+# Ignore la base de données SQLite
+data/*.db
